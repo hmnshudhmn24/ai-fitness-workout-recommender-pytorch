@@ -1,0 +1,6 @@
+
+mediapipe==0.10.0
+opencv-python
+streamlit
+numpy
+torch
